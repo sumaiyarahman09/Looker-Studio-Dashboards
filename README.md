@@ -15,18 +15,18 @@ A collection of interactive dashboards built using Google Looker Studio, featuri
 
  [View Dashboard](https://lookerstudio.google.com/reporting/da339b1a-9454-41f6-b54d-711b2dc713e9)
 
-![Business Analysis Dashboard Preview](images/business_analysis_dashboard.png)
+![Business Analysis Dashboard Preview](images/business_analysis.png)
 
 **Description:**  
 A two-part dashboard for both financial and geographical business performance:
 
-* Part 1 – Financial KPIs:
+*Part 1 – Financial KPIs:*
 
 - Key metrics: Profit, Sales, Average Profit Margin
 
 - Time-series visualizations for Sales, Profit, and Cost of Sales by Month
 
-* Part 2 – Geographical Insights:
+*Part 2 – Geographical Insights:*
 
 - KPIs: Region, Country, City
 
