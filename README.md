@@ -47,9 +47,9 @@ Great for C-level overview combining sales trends and regional performance.
 **Description:**  
 A comprehensive finance dashboard focusing on profitability and cost structure:
 
-* KPIs: Sales, Profit, Cost of Sales, Unit Cost, Price, Product Count
+*KPIs:* Sales, Profit, Cost of Sales, Unit Cost, Price, Product Count
 
-* Charts:
+*Charts:*
 
 - Profit by Country, Product Category, Sub-Category, and Promotion
 
@@ -70,17 +70,17 @@ This dashboard empowers financial decision-making by visualizing cost and revenu
 **Description:**  
 Designed to analyze customer order behavior, this dashboard includes:
 
-- Filters: Region dropdown + lists for Segment, Category, and Ship Mode
+*Filters:* Region dropdown + lists for Segment, Category, and Ship Mode
 
-- KPIs: Total Order ID, Customer ID, Number of States, Number of Segments
+*KPIs:* Total Order ID, Customer ID, Number of States, Number of Segments
 
-* Charts:
+*Charts:*
 
 - Number of Orders by Region, Category, Segment, and City
 
 - Order Trends by Year and Month
 
-* Tables:
+*Tables:*
 
 - Orders by Order Date, Order ID, and Quantity
 
@@ -96,22 +96,22 @@ Ideal for identifying trends in ordering patterns and customer behavior.
 
  [View Dashboard](https://lookerstudio.google.com/reporting/4b2a3c6b-ab98-4d32-8089-796347add353)
 
-![Product Analysis Dashboard Preview](images/product_analysis_dashboard.png)
+![Product Analysis Dashboard Preview](images/product_analysis.png)
 
 **Description:**  
 This dashboard highlights product-level insights across pricing, category, and profitability:
 
-* KPIs: # of Products, Average Price, # of Categories, # of Sub-Categories
+*KPIs:* # of Products, Average Price, # of Categories, # of Sub-Categories
 
-* Charts:
+*Charts:*
 
 - Profitability by Location and Sales Channel
 
 - Category-wise breakdown of Sales, Profit, and Unit Cost
 
-- Time-based analyses: Monthly Region, Category (Monthly & Quarterly)
+*Time-based analyses:* Monthly Region, Category (Monthly & Quarterly)
 
-* Filter: Dropdown for Product Category
+*Filter:* Dropdown for Product Category
 
 This dashboard is tailored for product managers to evaluate performance, pricing, and regional demand.
 
@@ -121,14 +121,14 @@ This dashboard is tailored for product managers to evaluate performance, pricing
 
  [View Dashboard](https://lookerstudio.google.com/reporting/882a96e3-8721-4a22-b382-ff3cebd2c48f)
 
-![Profit Analytics Dashboard Preview](images/profit_analytics_dashboard.png)
+![Profit Analytics Dashboard Preview](images/profit_analytics.png)
 
 **Description:**  
 A high-level profitability dashboard to track financial performance. Key components:
 
-* KPIs: Sales, Profit, Cost of Sales, Unit Cost, Order Quantity, # of Orders, # of Cities, # of Countries
+*KPIs:* Sales, Profit, Cost of Sales, Unit Cost, Order Quantity, # of Orders, # of Cities, # of Countries
 
-* Charts:
+*Charts:*
 
 Profit Analysis by Product Category, Sub-Category
 
@@ -138,7 +138,7 @@ Trend Analysis by Quarter and Year
 
 Combined view of Profit, Sales, and Unit Cost across categories
 
-* Dropdown Filter: Region
+*Dropdown Filter:* Region
 
 This dashboard provides in-depth profitability insights and cost dynamics across products and geographies.
 
